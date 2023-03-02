@@ -45,7 +45,7 @@ function dot() {
 }
 function back() {
     var arr=document.getElementById("result").value
-        document.getElementById("result").value=arr.slice(0,1)
+        document.getElementById("result").value=arr.slice(0,-1)
     
 }
 function run0() {
