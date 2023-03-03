@@ -28,6 +28,9 @@ function run9() {
 function percent() {
     document.getElementById("result").value+= "%"
 }
+function power() {
+    document.getElementById("result").value+="**"
+}
 function division() {
     document.getElementById("result").value+= "/"
 }
