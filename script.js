@@ -61,6 +61,6 @@ function result() {
 function empty(){
     var arr=document.getElementById("result").value
     for(var i=0;i<arr.length;i++){
-        document.getElementById("result").value=arr.slice(i,1)
+        document.getElementById("result").value=" "
     }
 }
