@@ -6,7 +6,8 @@ body{
 }
 
 .new{
-    height: 604px;
+    margin: auto;
+    height: 564px;
     width: 400px;
     border: 2px solid black;
     
@@ -15,7 +16,7 @@ body{
     /* border-color: rgb(139, 14, 14); */
 }
 #enterspace{
-    height:200px;
+    height:160px;
     width: 100%;
     background-color:rgb(168, 167, 167);
     font-size: 30px;
